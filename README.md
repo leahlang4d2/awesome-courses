@@ -48,6 +48,13 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 
+#### Python
+* [Introduction to Python]- https://www.udacity.com/course/introduction-to-python--ud1110
+
+#### Vim
+* [interactive Vim tutorial] - http://www.openvim.com/
+
+
 ### Books
 
 #### Ruby
@@ -97,6 +104,7 @@ Thank you for your suggestions!
 * [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
 * [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
 
 
 #### Ruby
